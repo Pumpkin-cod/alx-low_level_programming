@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*Description - main: prints a string
+*Description - main: prints _putchar
 *Return: 0(successful)
 */
 int main(void)
